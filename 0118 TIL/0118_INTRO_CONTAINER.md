@@ -111,7 +111,7 @@
 
 문자열 활용 시 특수문자 or 조작 위해 사용하는 것으로 `\` 활용하여 구분
 
-<img src="INTRO.assets/5.png" style="zoom:50%;" />
+<img src="0118_INTRO_CONTAINER.assets/5.png" style="zoom:50%;" />
 
 ### 2-4 String Interpolation
 
@@ -179,7 +179,7 @@ Type conversion (Typecasting)
 
 기본적인 사칙연산 가능
 
-<img src="INTRO.assets/4.png" style="zoom:50%;" />
+<img src="0118_INTRO_CONTAINER.assets/4.png" style="zoom:50%;" />
 
 - 나눗셈 (`/`) 은 항상 float를 돌려줌
 - 정수 나눗셈 으로 정수 결과를 얻으려면 `//` 연산자 사용
@@ -188,7 +188,7 @@ Type conversion (Typecasting)
 
 수학에서 배운 연산자와 동일하게 값 비교 가능
 
-<img src="INTRO.assets/3.png" style="zoom:50%;" />
+<img src="0118_INTRO_CONTAINER.assets/3.png" style="zoom:50%;" />
 
 ## 3. 논리 연산자
 
@@ -212,7 +212,7 @@ Type conversion (Typecasting)
 
 반복문을 통해서 개수 카운트 등을 할 때 가장 많이 활용
 
-<img src="INTRO.assets/1-1610983851940.png" style="zoom:50%;" />
+![](0118_INTRO_CONTAINER.assets/1.png)
 
 ## 5. 기타
 
@@ -416,7 +416,7 @@ key와 value가 쌍으로 이루어진 **궁극의 자료구조**
 
 파이썬에서 컨테이너는 서로 변환 가능
 
-<img src="INTRO_CONTAINER.assets/6.png" style="zoom:50%;" />
+<img src="0118_INTRO_CONTAINER.assets/6.png" style="zoom:50%;" />
 
 ## 4. 변경 가능 VS 변경 불가능 데이터
 
